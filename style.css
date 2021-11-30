@@ -1,0 +1,15 @@
+.background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#mycanvas {
+    border-width: 12px;
+    border-style: ridge;
+}
+
+#write{
+    font-family: cursive;
+    color: cornflowerblue;
+}
